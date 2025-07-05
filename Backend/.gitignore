@@ -1,0 +1,5 @@
+project
+.env
+__pycache__
+medical_analyzer.py 
+Johan_Fernandes_Medical_Report.pdf
